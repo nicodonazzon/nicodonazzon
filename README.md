@@ -11,7 +11,7 @@ I build and run backend systems that move real money: commission engines, recurr
 - **Payments and fiat/crypto wallets**, with integrations such as Stripe, NOWPayments and Mesh.
 - **Shipping integrations** with FedEx, UPS and USPS.
 - **Event-driven workers and microservices** over RabbitMQ, including crypto exchange integrations (OKX, Bybit, Binance).
-- **Legacy modernization**: I'm currently leading the migration of a .NET system into a TypeScript monorepo with Clean Architecture, using AI-assisted workflows with Claude Code.
+- **Legacy modernization**: I led the migration of a .NET system into a TypeScript monorepo with Clean Architecture, using AI-assisted workflows with Claude Code.
 
 ## 🧰 Tech stack
 
